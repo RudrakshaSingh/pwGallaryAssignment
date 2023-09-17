@@ -1,0 +1,23 @@
+.photos-list-wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.photo-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.controls {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button {
+    font-size: larger;
+    padding: 0.5rem;
+    border-radius: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
+}

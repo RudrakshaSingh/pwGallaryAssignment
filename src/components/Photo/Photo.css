@@ -1,0 +1,15 @@
+.img {
+    height: 12lh;
+    width: auto;
+    object-fit: cover;
+    cursor: pointer;
+    border-radius: 10px;
+    margin: 15px;
+    cursor: pointer;
+}
+.img-container {
+    margin: 20px;
+}
+.container:hover {
+    background-color: gainsboro;
+}

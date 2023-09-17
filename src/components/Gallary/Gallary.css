@@ -1,0 +1,22 @@
+#parent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+span {
+    font-size: 100px;
+    letter-spacing: 1rem;
+    font-family: serif;
+    font-weight: 700;
+    word-spacing: 2rem;
+}
+span:hover {
+    box-shadow: 0 2px 5px gainsboro;
+    border-radius: 10px;
+    background-color: gainsboro;
+}
+h1 {
+    margin-top: 30px;
+    align-self: flex-start;
+}
